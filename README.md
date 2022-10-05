@@ -24,4 +24,4 @@ I'm Will from America, based in Yamagata Japan. I'm a Fullstack Developer with a
 
 https://mitchellspaur.vercel.app/
 
-[![KeroseneSlickback's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeroseneSlickback&show_icons=true&theme=radical)](https://github.com/KeroseneSlickback/github-readme-stats)
+[![KeroseneSlickback's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeroseneSlickback&show_icons=true&theme=tokyonight)](https://github.com/KeroseneSlickback/github-readme-stats)
